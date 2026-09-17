@@ -1,0 +1,122 @@
+2026-09-15 13:20:57,171 - ERROR - edge-tts 패키지 없음
+2026-09-15 13:21:00,601 - CRITICAL - 설정 파일을 찾을 수 없습니다:
+C:\Users\admin\.copilot\attachments\MultiLanguageAI.json
+
+프로그램과 같은 폴더에 MultiLanguageAI.json 파일이 있는지 확인해 주세요.
+2026-09-15 13:27:02,186 - WARNING - 구글 번역 429(요청 제한) 발생, 3초 후 재시도 (1/3)
+2026-09-15 13:27:05,670 - WARNING - 구글 번역 429(요청 제한) 발생, 6초 후 재시도 (2/3)
+2026-09-15 13:27:11,948 - WARNING - 구글 번역 429(요청 제한) 발생, 9초 후 재시도 (3/3)
+2026-09-15 13:27:23,236 - WARNING - 구글 번역 429(요청 제한) 발생, 3초 후 재시도 (1/3)
+2026-09-15 13:27:26,681 - WARNING - 구글 번역 429(요청 제한) 발생, 6초 후 재시도 (2/3)
+2026-09-15 13:27:33,226 - WARNING - 구글 번역 429(요청 제한) 발생, 9초 후 재시도 (3/3)
+2026-09-15 13:27:39,184 - WARNING - 구글 번역 429(요청 제한) 발생, 3초 후 재시도 (1/3)
+2026-09-15 13:27:42,567 - WARNING - 구글 번역 429(요청 제한) 발생, 6초 후 재시도 (2/3)
+2026-09-15 13:27:49,069 - WARNING - 구글 번역 429(요청 제한) 발생, 9초 후 재시도 (3/3)
+2026-09-15 13:28:48,253 - WARNING - 구글 번역 429(요청 제한) 발생, 3초 후 재시도 (1/3)
+2026-09-15 13:28:51,554 - WARNING - 구글 번역 429(요청 제한) 발생, 6초 후 재시도 (2/3)
+2026-09-15 13:28:57,825 - WARNING - 구글 번역 429(요청 제한) 발생, 9초 후 재시도 (3/3)
+2026-09-15 13:29:07,839 - WARNING - 구글 번역 429(요청 제한) 발생, 3초 후 재시도 (1/3)
+2026-09-15 13:29:11,335 - WARNING - 구글 번역 429(요청 제한) 발생, 6초 후 재시도 (2/3)
+2026-09-15 13:29:17,630 - WARNING - 구글 번역 429(요청 제한) 발생, 9초 후 재시도 (3/3)
+2026-09-15 13:32:53,378 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:33:08,201 - WARNING - edge-tts 합성 실패 (시도 1/3, voice=vi-VN-HoaiMyNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:33:09,534 - WARNING - edge-tts 합성 실패 (시도 2/3, voice=vi-VN-HoaiMyNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:33:10,834 - WARNING - edge-tts 합성 실패 (시도 3/3, voice=vi-VN-HoaiMyNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:33:10,845 - ERROR - TTS 재생 실패: No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:33:34,572 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:33:52,658 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:34:13,899 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:34:26,992 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:34:34,091 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:34:45,997 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:34:54,553 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:35:04,331 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:35:33,936 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:36:29,936 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:36:32,055 - WARNING - edge-tts 합성 실패 (시도 1/3, voice=zh-TW-HsiaoChenNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:36:33,291 - WARNING - edge-tts 합성 실패 (시도 2/3, voice=zh-TW-HsiaoChenNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:36:34,567 - WARNING - edge-tts 합성 실패 (시도 3/3, voice=zh-TW-HsiaoChenNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:36:34,569 - ERROR - 번역 음성 재생 실패: No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:36:45,242 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:36:45,776 - WARNING - edge-tts 합성 실패 (시도 1/3, voice=zh-CN-XiaoxiaoNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:36:47,042 - WARNING - edge-tts 합성 실패 (시도 2/3, voice=zh-CN-XiaoxiaoNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:36:48,327 - WARNING - edge-tts 합성 실패 (시도 3/3, voice=zh-CN-XiaoxiaoNeural): No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:36:48,337 - ERROR - 번역 음성 재생 실패: No audio was received. Please verify that your parameters are correct.
+2026-09-15 13:37:05,644 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:37:18,462 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 13:37:25,896 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:11:48,466 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:11:57,998 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:12:06,649 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:12:15,867 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:13:37,885 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:13:46,599 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:13:56,911 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:14:06,416 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:14:18,647 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:14:29,452 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:30:06,408 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:30:13,442 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:30:21,791 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:30:33,150 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:30:40,149 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:31:09,902 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:31:15,371 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:31:17,196 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:31:21,340 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:31:25,813 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:31:32,302 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:31:53,330 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:31:58,059 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:32:04,319 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:33:00,580 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:33:27,465 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:33:48,522 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:34:05,569 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:34:23,494 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:34:43,899 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:35:30,229 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:35:52,451 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:35:58,804 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:36:05,276 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:36:12,878 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:36:19,237 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:36:24,302 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:36:24,781 - WARNING - 번역 음성 미지원 언어: uz (우즈베크어 - Uzbek)
+2026-09-15 14:36:33,711 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:36:48,223 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:36:55,522 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:37:01,801 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:37:07,445 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:37:13,211 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:37:14,276 - WARNING - 번역 음성 미지원 언어: si (싱할라어(스리랑카) - Sinhala)
+2026-09-15 14:37:25,173 - WARNING - 번역 음성 미지원 언어: uz (우즈베크어 - Uzbek)
+2026-09-15 14:37:47,005 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:38:18,751 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:38:42,412 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:42:09,118 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:42:29,547 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:42:42,069 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:42:54,819 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:42:58,816 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:43:01,661 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:43:06,006 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:43:21,537 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:43:38,775 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:43:42,585 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:43:47,973 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:43:51,524 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:43:58,876 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:44:07,802 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:44:11,412 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:44:16,526 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:44:19,834 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:44:24,905 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:44:28,520 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:45:12,739 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:45:22,722 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:45:26,579 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:45:33,804 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:45:40,429 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 14:45:47,680 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.
+2026-09-15 15:00:15,605 - WARNING - 구글 번역 429(요청 제한) 발생; MyMemory로 전환합니다.

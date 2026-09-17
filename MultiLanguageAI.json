@@ -1,0 +1,306 @@
+{
+  "languages": {
+    "ko": {
+      "name": "한국어 - Korean",
+      "tts_code": "ko",
+      "stt": "ko-KR"
+    },
+    "en": {
+      "name": "영어 - English",
+      "tts_code": "en",
+      "stt": "en-US"
+    },
+    "ja": {
+      "name": "일본어 - Japanese",
+      "tts_code": "ja",
+      "stt": "ja-JP"
+    },
+    "zh-cn": {
+      "name": "중국어(간체) - Chinese (Simplified)",
+      "tts_code": "zh-CN",
+      "stt": "zh-CN"
+    },
+    "zh-tw": {
+      "name": "중국어(번체) - Chinese (Traditional)",
+      "tts_code": "zh-TW",
+      "stt": "zh-TW"
+    },
+    "th": {
+      "name": "태국어 - Thai",
+      "tts_code": "th",
+      "stt": "th-TH"
+    },
+    "vi": {
+      "name": "베트남어 - Vietnamese",
+      "tts_code": "vi",
+      "stt": "vi-VN"
+    },
+    "id": {
+      "name": "인도네시아어 - Indonesian",
+      "tts_code": "id",
+      "stt": "id-ID"
+    },
+    "uz": {
+        "name": "우즈베크어 - Uzbek",
+        "tts_code": "uz",
+        "stt": "uz-UZ"
+    },
+    "tl": {
+      "name": "필리핀(타갈로그) - Filipino / Tagalog",
+      "tts_code": "tl",
+      "stt": "fil-PH"
+    },
+    "ms": {
+      "name": "말레이어 - Malay",
+      "tts_code": "ms",
+      "stt": "ms-MY"
+    },
+    "km": {
+      "name": "크메르(캄보디아)어 - Khmer",
+      "tts_code": "km",
+      "stt": "km-KH"
+    },
+    "lo": {
+      "name": "라오어 - Lao",
+      "tts_code": "lo",
+      "stt": "lo-LA"
+    },
+    "my": {
+      "name": "미얀마어 - Burmese / Myanmar",
+      "tts_code": "my",
+      "stt": "my-MM"
+    },
+    "si": {
+      "name": "싱할라어(스리랑카) - Sinhala",
+      "tts_code": "si",
+      "stt": "si-LK"
+    }
+  },
+  "ui_texts": {
+    "ko": {
+      "title_label": "학습할 외국어 텍스트:",
+      "lang_select_label": "언어 선택:",
+      "trans_lang_label": "번역 대상 언어:",
+      "btn_load_text": "텍스트 불러오기",
+      "btn_load_file": "파일 불러오기",
+      "btn_tts": "🔊 문장 듣기",
+      "btn_mic": "🎤 발음 연습",
+      "btn_trans": "🔍 문장 번역",
+      "btn_prev": "⬅ 이전 문장",
+      "btn_next": "➡ 다음 문장",
+      "btn_stats": "📊 학습 성취도 분석",
+      "default_result": "결과가 표시됩니다.",
+      "default_progress": "문장을 준비해 주세요."
+    },
+    "en": {
+      "title_label": "Text to Learn:",
+      "lang_select_label": "Language:",
+      "trans_lang_label": "Translate To:",
+      "btn_load_text": "Load Text",
+      "btn_load_file": "Load File",
+      "btn_tts": "🔊 Listen",
+      "btn_mic": "🎤 Speaking Practice",
+      "btn_trans": "🔍 Translate",
+      "btn_prev": "⬅ Previous",
+      "btn_next": "➡ Next",
+      "btn_stats": "📊 Learning Analysis",
+      "default_result": "Results will be displayed here.",
+      "default_progress": "Please prepare sentences."
+    },
+    "ja": {
+      "title_label": "学習する外国語のテキスト:",
+      "lang_select_label": "言語選択:",
+      "trans_lang_label": "翻訳先言語:",
+      "btn_load_text": "テキストを読み込む",
+      "btn_load_file": "ファイルを読み込む",
+      "btn_tts": "🔊 文章を聞く",
+      "btn_mic": "🎤 発音練習",
+      "btn_trans": "🔍 文章を翻訳",
+      "btn_prev": "⬅ 前の文章",
+      "btn_next": "➡ 次の文章",
+      "btn_stats": "📊 学習状況分析",
+      "default_result": "ここに結果が表示されます。",
+      "default_progress": "文章を準備してください。"
+    },
+    "zh-cn": {
+      "title_label": "要学习的外语文本:",
+      "lang_select_label": "选择语言:",
+      "trans_lang_label": "翻译成语言:",
+      "btn_load_text": "加载文本",
+      "btn_load_file": "加载文件",
+      "btn_tts": "🔊 朗读句子",
+      "btn_mic": "🎤 发音练习",
+      "btn_trans": "🔍 句子翻译",
+      "btn_prev": "⬅ 上一句",
+      "btn_next": "➡ 下一句",
+      "btn_stats": "📊 学习分析",
+      "default_result": "结果将显示在这里。",
+      "default_progress": "请准备句子。"
+    },
+    "zh-tw": {
+      "title_label": "要學習的外語文字:",
+      "lang_select_label": "選擇語言:",
+      "trans_lang_label": "翻譯成語言:",
+      "btn_load_text": "載入文字",
+      "btn_load_file": "載入檔案",
+      "btn_tts": "🔊 語句朗讀",
+      "btn_mic": "🎤 發音練習",
+      "btn_trans": "🔍 語句翻譯",
+      "btn_prev": "⬅ 上一句",
+      "btn_next": "➡ 下一句",
+      "btn_stats": "📊 學習分析",
+      "default_result": "結果將顯示在此處。",
+      "default_progress": "請準備句子。"
+    },
+    "th": {
+      "title_label": "ข้อความสำหรับเรียนรู้:",
+      "lang_select_label": "เลือกภาษา:",
+      "trans_lang_label": "แปลเป็นภาษา:",
+      "btn_load_text": "โหลดข้อความ",
+      "btn_load_file": "โหลดไฟล์",
+      "btn_tts": "🔊 ฟังประโยค",
+      "btn_mic": "🎤 ฝึกออกเสียง",
+      "btn_trans": "🔍 แปลประโยค",
+      "btn_prev": "⬅ ประโยคก่อนหน้า",
+      "btn_next": "➡ ประโยคถัดไป",
+      "btn_stats": "📊 วิเคราะห์ผลการเรียน",
+      "default_result": "ผลลัพธ์จะแสดงที่นี่",
+      "default_progress": "กรุณาเตรียมประโยค"
+    },
+    "vi": {
+      "title_label": "Văn bản học tập:",
+      "lang_select_label": "Chọn ngôn ngữ:",
+      "trans_lang_label": "Dịch sang:",
+      "btn_load_text": "Tải văn bản",
+      "btn_load_file": "Tải tệp",
+      "btn_tts": "🔊 Nghe câu",
+      "btn_mic": "🎤 Luyện phát âm",
+      "btn_trans": "🔍 Dịch câu",
+      "btn_prev": "⬅ Câu trước",
+      "btn_next": "➡ Câu sau",
+      "btn_stats": "📊 Phân tích kết quả",
+      "default_result": "Kết quả sẽ hiển thị ở đây.",
+      "default_progress": "Vui lòng chuẩn bị câu."
+    },
+    "id": {
+      "title_label": "Teks untuk Dipelajari:",
+      "lang_select_label": "Pilih Bahasa:",
+      "trans_lang_label": "Terjemahkan ke:",
+      "btn_load_text": "Muat Teks",
+      "btn_load_file": "Muat Berkas",
+      "btn_tts": "🔊 Dengarkan",
+      "btn_mic": "🎤 Latihan Pelafalan",
+      "btn_trans": "🔍 Terjemahkan",
+      "btn_prev": "⬅ Sebelumnya",
+      "btn_next": "➡ Selanjutnya",
+      "btn_stats": "📊 Analisis Hasil",
+      "default_result": "Hasil akan ditampilkan di sini.",
+      "default_progress": "Harap siapkan kalimat."
+    },
+    "uz": {
+        "title_label": "O‘rganiladigan xorijiy til matni:",
+        "lang_select_label": "Til:",
+        "trans_lang_label": "Tarjima tili:",
+        "btn_load_text": "Matnni yuklash",
+        "btn_load_file": "Faylni yuklash",
+        "btn_tts": "🔊 Tinglash",
+        "btn_mic": "🎤 Talaffuz mashqi",
+        "btn_trans": "🔍 Tarjima qilish",
+        "btn_prev": "⬅ Oldingi gap",
+        "btn_next": "➡ Keyingi gap",
+        "btn_stats": "📊 O‘quv natijalari tahlili",
+        "default_result": "Natija shu yerda ko‘rsatiladi.",
+        "default_progress": "Iltimos, gaplarni tayyorlang."
+    },
+    "tl": {
+      "title_label": "Teksto na Pag-aaralan:",
+      "lang_select_label": "Pumili ng Wika:",
+      "trans_lang_label": "Isalin sa:",
+      "btn_load_text": "I-load ang Teksto",
+      "btn_load_file": "I-load ang File",
+      "btn_tts": "🔊 Pakinggan",
+      "btn_mic": "🎤 Magsanay Magsalita",
+      "btn_trans": "🔍 Isalin",
+      "btn_prev": "⬅ Nakaraang Pangungusap",
+      "btn_next": "➡ Susunod na Pangungusap",
+      "btn_stats": "📊 Pagsusuri ng Pag-aaral",
+      "default_result": "Ipakikita rito ang resulta.",
+      "default_progress": "Mangyaring maghanda ng mga pangungusap."
+    },
+    "ms": {
+      "title_label": "Teks untuk Dipelajari:",
+      "lang_select_label": "Pilih Bahasa:",
+      "trans_lang_label": "Terjemah ke:",
+      "btn_load_text": "Muat Teks",
+      "btn_load_file": "Muat Fail",
+      "btn_tts": "🔊 Dengar Ayat",
+      "btn_mic": "🎤 Latihan Sebutan",
+      "btn_trans": "🔍 Terjemah Ayat",
+      "btn_prev": "⬅ Ayat Sebelum",
+      "btn_next": "➡ Ayat Seterusnya",
+      "btn_stats": "📊 Analisis Pencapaian",
+      "default_result": "Keputusan akan dipaparkan di sini.",
+      "default_progress": "Sila sediakan ayat."
+    },
+    "km": {
+      "title_label": "អត្ថបទត្រូវរៀន៖",
+      "lang_select_label": "ជ្រើសរើសភាសា៖",
+      "trans_lang_label": "បកប្រែទៅជា៖",
+      "btn_load_text": "ផ្ទុកអត្ថបទ",
+      "btn_load_file": "ផ្ទុកឯកសារ",
+      "btn_tts": "🔊 ស្តាប់ប្រយោគ",
+      "btn_mic": "🎤 ហាត់បញ្ចេញសំឡេង",
+      "btn_trans": "🔍 បកប្រែប្រយោគ",
+      "btn_prev": "⬅ ប្រយោគមុន",
+      "btn_next": "➡ ប្រយោគបន្ទាប់",
+      "btn_stats": "📊 វិភាគលទ្ធផលសិក្សា",
+      "default_result": "លទ្ធផលនឹងបង្ហាញនៅទីនេះ",
+      "default_progress": "សូមរៀបចំប្រយោគ"
+    },
+    "lo": {
+      "title_label": "ຂໍ້ຄວາມທີ່ຈະຮຽນ:",
+      "lang_select_label": "ເລືອກພາສາ:",
+      "trans_lang_label": "ແປເປັນ:",
+      "btn_load_text": "ໂຫລດຂໍ້ຄວາມ",
+      "btn_load_file": "ໂຫລດໄຟລ໌",
+      "btn_tts": "🔊 ຟັງປະໂຫຍກ",
+      "btn_mic": "🎤 ຝຶກອອກສຽງ",
+      "btn_trans": "🔍 ແປປະໂຫຍກ",
+      "btn_prev": "⬅ ປະໂຫຍກກ່ອນໜ້າ",
+      "btn_next": "➡ ປະໂຫຍກຕໍ່ໄປ",
+      "btn_stats": "📊 ວິເຄາະຜົນການຮຽນ",
+      "default_result": "ຜົນໄດ້ຮັບຈະສະແດງຢູ່ທີ່ນີ້",
+      "default_progress": "ກະລຸນາກຽມປະໂຫຍກ"
+    },
+    "my": {
+      "title_label": "လေ့လာရမည့် စာသား -",
+      "lang_select_label": "ဘာသာစကား ရွေးပါ -",
+      "trans_lang_label": "ဘာသာပြန်မည့် ဘာသာစကား -",
+      "btn_load_text": "စာသား ရယူရန်",
+      "btn_load_file": "ဖိုင် ရယူရန်",
+      "btn_tts": "🔊 စာကြောင်း နားထောင်ရန်",
+      "btn_mic": "🎤 အသံထွက် လေ့ကျင့်ရန်",
+      "btn_trans": "🔍 ဘာသာပြန်ရန်",
+      "btn_prev": "⬅ ရှေ့စာကြောင်း",
+      "btn_next": "➡ နောက်စာကြောင်း",
+      "btn_stats": "📊 လေ့လာမှု သုံးသပ်ချက်",
+      "default_result": "ရလဒ်များကို ဤနေရာတွင် ပြသပါမည်။",
+      "default_progress": "ကျေးဇူးပြု၍ စာကြောင်းများ ပြင်ဆင်ပါ။"
+    },
+    "si": {
+      "title_label": "ඉගෙනීමට විදේශ භාෂා පෙළ:",
+      "lang_select_label": "භාෂාව තෝරන්න:",
+      "trans_lang_label": "පරිවර්තනය කිරීමට භාෂාව:",
+      "btn_load_text": "පෙළ පූරණය කරන්න",
+      "btn_load_file": "ගොනුව පූරණය කරන්න",
+      "btn_tts": "🔊 වාක්‍යය අසන්න",
+      "btn_mic": "🎤 උච්චාරණ පුහුණුව",
+      "btn_trans": "🔍 වාක්‍යය පරිවර්තනය කරන්න",
+      "btn_prev": "⬅ පෙර වාක්‍යය",
+      "btn_next": "➡ ඊළඟ වාක්‍යය",
+      "btn_stats": "📊 ඉගෙනුම් විශ්ලේෂණය",
+      "default_result": "ප්‍රතිඵල මෙහි පෙන්වනු ලැබේ.",
+      "default_progress": "කරුණාකර වාක්‍ය සකසන්න."
+    }
+  }
+}
