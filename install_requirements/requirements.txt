@@ -1,6 +1,0 @@
-﻿langdetect
-SpeechRecognition
-gTTS
-pygame
-requests
-PyAudio
